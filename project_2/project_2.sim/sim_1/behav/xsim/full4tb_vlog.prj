@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/adder4.v" \
+"../../../../project_2.srcs/sources_1/new/fa.v" \
+"../../../../project_2.srcs/sim_1/new/full4tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

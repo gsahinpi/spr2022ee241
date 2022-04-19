@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/gsahinpi/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/gsahinpi/project_2/project_2.srcs/sim_1/new/fatb.v,1650363915,verilog,,,,fatb,,,,,,,,
+C:/Users/gsahinpi/project_2/project_2.srcs/sim_1/new/full4tb.v,1650365608,verilog,,,,full4tb,,,,,,,,
+C:/Users/gsahinpi/project_2/project_2.srcs/sources_1/new/adder4.v,1650365069,verilog,,C:/Users/gsahinpi/project_2/project_2.srcs/sources_1/new/fa.v,,adder4,,,,,,,,
+C:/Users/gsahinpi/project_2/project_2.srcs/sources_1/new/fa.v,1650363499,verilog,,C:/Users/gsahinpi/project_2/project_2.srcs/sim_1/new/full4tb.v,,fa,,,,,,,,
