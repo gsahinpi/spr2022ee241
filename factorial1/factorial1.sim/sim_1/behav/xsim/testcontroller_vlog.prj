@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../flashtimerinclass/flashtimerinclass.srcs/sources_1/new/DFF.v" \
+"../../../../factorial1.srcs/sources_1/new/controller.v" \
+"../../../../factorial1.srcs/sources_1/new/datapath.v" \
+"../../../../factorial1.srcs/sim_1/new/testcontroller.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
