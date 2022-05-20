@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sim_1/new/datapathtest.v,1653071491,verilog,,,,Datapathtest,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/controller.v,1653075799,verilog,,C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/controltest.v,1653073971,verilog,,,,controltest,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/datapath.v,1653075330,verilog,,C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/dff.v,,Datapath,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/dff.v,1653071363,verilog,,C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/Factfromscratch/Factfromscratch.srcs/sources_1/new/controltest.v,,DFF,,,,,,,,

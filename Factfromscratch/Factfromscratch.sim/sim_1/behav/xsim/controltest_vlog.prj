@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Factfromscratch.srcs/sources_1/new/controller.v" \
+"../../../../Factfromscratch.srcs/sources_1/new/datapath.v" \
+"../../../../Factfromscratch.srcs/sources_1/new/dff.v" \
+"../../../../Factfromscratch.srcs/sources_1/new/controltest.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

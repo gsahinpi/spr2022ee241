@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Datapathtest_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Datapathtest" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="427.379 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="134"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/Datapathtest/tN" type="array">
+      <obj_property name="ElementShortName">tN[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tN[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapathtest/twasel" type="array">
+      <obj_property name="ElementShortName">twasel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">twasel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapathtest/twbsel" type="array">
+      <obj_property name="ElementShortName">twbsel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">twbsel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapathtest/tclk" type="logic">
+      <obj_property name="ElementShortName">tclk</obj_property>
+      <obj_property name="ObjectShortName">tclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapathtest/tz" type="logic">
+      <obj_property name="ElementShortName">tz</obj_property>
+      <obj_property name="ObjectShortName">tz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapathtest/tAout" type="array">
+      <obj_property name="ElementShortName">tAout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tAout[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapathtest/tBout" type="array">
+      <obj_property name="ElementShortName">tBout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tBout[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
