@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sim_1/imports/new/controller2test.v,1654001325,verilog,,,,controller2test,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sources_1/imports/power1.srcs/sim_1/new/controller2.v,1654001224,verilog,,C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sources_1/imports/power1.srcs/sources_1/imports/new/dff.v,,controller2,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sources_1/imports/power1.srcs/sources_1/imports/new/dff.v,1653570638,verilog,,C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sources_1/imports/power1.srcs/sources_1/new/dtapath.v,,DFF,,,,,,,,
+C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sources_1/imports/power1.srcs/sources_1/new/dtapath.v,1653998070,verilog,,C:/Users/gsahinpi/Downloads/vivadotemp-20220514T100855Z-001/vivadotemp/mtothepowern/mtothepowern.srcs/sim_1/imports/new/controller2test.v,,dtapath,,,,,,,,

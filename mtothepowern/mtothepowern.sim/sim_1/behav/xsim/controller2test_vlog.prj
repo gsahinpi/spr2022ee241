@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../mtothepowern.srcs/sources_1/imports/power1.srcs/sim_1/new/controller2.v" \
+"../../../../mtothepowern.srcs/sources_1/imports/power1.srcs/sources_1/imports/new/dff.v" \
+"../../../../mtothepowern.srcs/sources_1/imports/power1.srcs/sources_1/new/dtapath.v" \
+"../../../../mtothepowern.srcs/sim_1/imports/new/controller2test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
