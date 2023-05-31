@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Tue Jan 17 22:37:59 2023
+# Process ID: 23184
+# Current directory: C:/Users/gsahinpi/Documents/github/spr2022ee241/factorial1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34668 C:\Users\gsahinpi\Documents\github\spr2022ee241\factorial1\factorial1.xpr
+# Log file: C:/Users/gsahinpi/Documents/github/spr2022ee241/factorial1/vivado.log
+# Journal file: C:/Users/gsahinpi/Documents/github/spr2022ee241/factorial1\vivado.jou
+# Running On: LAPTOP-REO4FCML, OS: Windows, CPU Frequency: 1797 MHz, CPU Physical cores: 16, Host memory: 16441 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/gsahinpi/Documents/github/spr2022ee241/factorial1/factorial1.xpr
+update_compile_order -fileset sources_1
